@@ -1,0 +1,16 @@
+Change the constants in the code to the relevent:
+CSV_LOCATION = The location of your .csv file
+FULL_JSON_LOCATION =  The disire location of your .json file
+DROP_JSON_LOCATION = the disire location of your new .json file (without one column)
+COLUMN_TO_DROP = the name of the colunm you want to drop
+
+In this repository you will also find an example. 
+While:
+CSV_LOCATION = "csvfile.csv"
+FULL_JSON_LOCATION =  "json_file.json"
+DROP_JSON_LOCATION =  "json_file_droped.json"
+COLUMN_TO_DROP = "policyID"
+
+The following files are added: csvfile.csv, json_file.json, json_file_droped.json.
+
+
